@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/heat_widget_root" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="14dp" android:background="@drawable/widget_bg">
+  <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+    <TextView android:id="@+id/heat_widget_title" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:maxLines="1" android:text="专注热力图" android:textColor="#FFFFFFFF" android:textSize="13sp" android:textStyle="bold"/>
+    <TextView android:id="@+id/heat_widget_sub" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:text="" android:textColor="#B3FFFFFF" android:textSize="10sp"/>
+  </LinearLayout>
+  <ImageView android:id="@+id/heat_widget_image" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:layout_marginTop="6dp" android:scaleType="fitCenter" android:contentDescription="近十二周专注热力图"/>
+</LinearLayout>

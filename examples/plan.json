@@ -1,0 +1,30 @@
+{
+  "kind": "daily-focus-plan",
+  "version": 1,
+  "title": "示例日程",
+  "days": [
+    {
+      "date": "2027-01-04",
+      "tasks": [
+        {
+          "id": "reading",
+          "start": "09:00",
+          "end": "09:45",
+          "category": "thesis",
+          "title": "阅读一篇资料",
+          "output": "留下三条要点和一个疑问",
+          "detail": "先看摘要，再阅读关键段落，最后用自己的话整理。"
+        },
+        {
+          "id": "practice",
+          "start": "10:00",
+          "end": "10:45",
+          "category": "dev",
+          "title": "完成一个小练习",
+          "output": "保存可运行的结果和验证说明",
+          "detail": "先定一个小目标，完成后实际运行并记录下一步。"
+        }
+      ]
+    }
+  ]
+}

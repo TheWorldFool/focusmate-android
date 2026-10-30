@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">专注清单</string>
+  <string name="widget_description">显示今日专注时长与番茄数，可直接开始、暂停或继续计时。</string>
+  <string name="widget_future_description">显示最近的未来倒计时天数，点击进入未来页。</string>
+  <string name="widget_heat_description">显示近十二周的专注热力图，点击进入统计页。</string>
+  <string name="widget_quick_lock_description">四个常用时长，点击立即开始锁机。</string>
+  <string name="guard_description">仅在你主动开始专注且开启学霸模式时识别前台应用。可放行白名单，并将其他应用返回桌面。不读取页面内容、不收集输入、不联网；随时可在系统设置关闭。</string>
+</resources>

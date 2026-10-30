@@ -1,0 +1,9 @@
+{
+  "apk": "专注清单-本地版.apk",
+  "sha256": "0b0fe721348491e38038cd85eae3c6c85800602a9ac449090da09178b4ebce2b",
+  "size": 149200,
+  "package": "cn.local.focusmate",
+  "minSdk": 26,
+  "targetSdk": 35,
+  "version": "1.0.1"
+}
